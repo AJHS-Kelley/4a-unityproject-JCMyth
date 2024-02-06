@@ -1,0 +1,4 @@
+C:\Users\cunninghamj\Documents\GitHub\4a-unityproject-JCMyth\obj\Debug\net7.0\4a-unityproject-JCMyth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cunninghamj\Documents\GitHub\4a-unityproject-JCMyth\obj\Debug\net7.0\4a-unityproject-JCMyth.AssemblyInfoInputs.cache
+C:\Users\cunninghamj\Documents\GitHub\4a-unityproject-JCMyth\obj\Debug\net7.0\4a-unityproject-JCMyth.AssemblyInfo.cs
+C:\Users\cunninghamj\Documents\GitHub\4a-unityproject-JCMyth\obj\Debug\net7.0\4a-unityproject-JCMyth.csproj.CoreCompileInputs.cache
